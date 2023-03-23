@@ -1,2 +1,1 @@
-# prepcourse-henry
-Este es un repositorio de prueba del M2 de Henry
+este proyecto es una prueba de como clonar
